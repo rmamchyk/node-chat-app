@@ -9,5 +9,5 @@ socket.on('disconnect', function(){
 });
 
 socket.on('newMessage', function(message){
-  console.log(`Got a message from '${message.from}': ${message.text}\n(${new Date(message.createdAt).toLocaleString()})`);
+  console.log(`${message.from}: ${message.text}\n(${new Date(message.createdAt).toLocaleString()})`);
 });
