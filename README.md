@@ -1,5 +1,5 @@
 # Chat app
 
-This is a simple project that is built on Node.js using Web Sockets.
+Simple Chat application using Node.js & Web Sockets.
 
-Here is the link to demo: [Chat app](https://quiet-gorge-94927.herokuapp.com/)
+Here is a link to demo: [Chat app](https://quiet-gorge-94927.herokuapp.com/)
